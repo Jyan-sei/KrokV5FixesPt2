@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\obj\V5SyncSwap.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\obj\V5SyncSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\obj\V5SyncSwap.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\obj\V5SyncSwap.AssemblyInfo.cs
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\obj\V5SyncSwap.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\obj\V5SyncSwap.sourcelink.json
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\bin\V5SyncSwap.dll
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\bin\V5SyncSwap.pdb
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\obj\V5SyncSwap.dll
+C:\Users\Owner\Documents\CasuGame\PluginSource\V5SyncSwap\obj\V5SyncSwap.pdb

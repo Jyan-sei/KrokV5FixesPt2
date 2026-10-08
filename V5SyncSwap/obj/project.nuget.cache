@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ZifePAU32Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Documents\\CasuGame\\PluginSource\\V5SyncSwap\\V5SyncSwap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
