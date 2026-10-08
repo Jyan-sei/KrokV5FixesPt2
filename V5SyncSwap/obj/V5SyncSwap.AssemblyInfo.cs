@@ -11,9 +11,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("V5SyncSwap")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+947642a9bc31392adca4fc712d653ea816fc971a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d8114cbb480f49bd1cca2549c750b92b6dd56d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("V5SyncSwap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("V5SyncSwap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
